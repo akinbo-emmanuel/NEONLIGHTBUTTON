@@ -13,7 +13,7 @@ or simply fork this repository to yours.
 
 ## Usage
 
-Open the folder using a code editor of your choice.
+Open the folder using any code editor of your choice.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
