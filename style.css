@@ -20,6 +20,7 @@ a {
   font-size: 24px;
   overflow: hidden;
   transition: 0.2s;
+  border-radius: 7px;
 }
 
 a:hover{
