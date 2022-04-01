@@ -22,3 +22,5 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+![Alt](https://repobeats.axiom.co/api/embed/f1c25e480271285fadb64f8772cb41f148f5b608.svg "Repobeats analytics image")
